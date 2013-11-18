@@ -2,11 +2,11 @@
 <head>
 <link rel="stylesheet" href="heading.css" type="text/css">
 <title>
-______ Apparel </title>
+Available Apparel </title>
 </head>
 
 <body>
-<p> _________ Apparel</font></p>
+<p> Basic Apparel</font></p>
 <pre>
 <a href="main.html" target="main"> Home </a>                <a href="aboutus.html" target="main"> About Us </a>                <a href="contact.html" target="main">Contact Us </a>                <a href="offers.html" target="main"> Special Offers </a>
 </pre>
