@@ -1,0 +1,19 @@
+<html>
+<head>
+<link rel="stylesheet" href="base.css" type="text/css">
+</head>
+
+<body>
+Clothes: Kids
+<br><br>
+<img src="kid1.png">
+<img src="kid2.png">
+<img src="kid3.png">
+<img src="kid4.png">
+<img src="kid5.png">
+<img src="kid6.png">
+
+<br><br>
+
+</body>
+</html>
