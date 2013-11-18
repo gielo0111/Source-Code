@@ -1,0 +1,17 @@
+body { background-color : #848482;
+            color : white;
+            font-family : microsoft sans serif;
+            font size : 10; }
+a:link { color : #ffffff; 
+            text-decoration : none;}
+a:visited { color : #ffffff; 
+                 text-decoration : none;}
+a:hover { font-size : 15; 
+                  font-family : georgia;
+                  color : #fffa69; 
+                   font-style : italic; }
+a:active { color : #ffffff; 
+                 font-style : italic;} 
+a { color: blue; }
+td { font-family : microsoft sans serif;
+       font size : 10;  }
