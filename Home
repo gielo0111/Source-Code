@@ -13,6 +13,6 @@
 	<frame src="main.html" name="main">
 </frameset>
 </frameset>
-<body onload='touchRouck();'>
+<body onload='touchRock();'>
 </body>
 </html>
