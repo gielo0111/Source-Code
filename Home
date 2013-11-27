@@ -1,6 +1,10 @@
+<!doctype html>
 <html>
 <head>
+<meta charset="utf-8">
+<link rel="stylesheet" href=base.css">
 <title> The FABRIC SHOP</title>
+<script src="Fabic.js"></script>
 </head>
 <frameset border="0" frameborder="0" framespacing="0" cols="21%,79%">
 	<frame src="links.html" name="link" noresize>
@@ -9,5 +13,6 @@
 	<frame src="main.html" name="main">
 </frameset>
 </frameset>
-
+<body onload='touchRouck();'>
+</body>
 </html>
