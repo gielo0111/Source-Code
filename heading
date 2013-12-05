@@ -8,7 +8,7 @@ Available Apparel </title>
 <body>
 <p> Basic Apparel</font></p>
 <pre>
-<a href="main.html" target="main"> Home </a>                <a href="aboutus.html" target="main"> About Us </a>                <a href="contact.html" target="main">Contact Us </a>                <a href="offers.html" target="main"> Special Offers </a>
+<a href="main.html"> Home </a>                <a href="aboutus.html"> About Us </a>                <a href="contact.html">Contact Us </a>                <a href="offers.html"> Special Offers </a>
 </pre>
 </body>
 </html>
